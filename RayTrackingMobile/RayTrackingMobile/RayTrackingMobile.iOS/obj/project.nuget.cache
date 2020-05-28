@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/+BYTIHAqZYhiMqv9ALMJSJFUkTlFDev/NqNWbliBmx15HJ1TLXnuaLmR84NxQqae5UbUE+gBftGjSZMUnsX5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile.iOS\\RayTrackingMobile.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugog\\.nuget\\packages\\com.airbnb.ios.lottie\\2.5.10\\com.airbnb.ios.lottie.2.5.10.nupkg.sha512",
+    "C:\\Users\\hugog\\.nuget\\packages\\com.airbnb.xamarin.forms.lottie\\3.0.3\\com.airbnb.xamarin.forms.lottie.3.0.3.nupkg.sha512",
+    "C:\\Users\\hugog\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\hugog\\.nuget\\packages\\rg.plugins.popup\\1.2.0.223\\rg.plugins.popup.1.2.0.223.nupkg.sha512",
+    "C:\\Users\\hugog\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\hugog\\.nuget\\packages\\xamarin.forms\\4.6.0.800\\xamarin.forms.4.6.0.800.nupkg.sha512",
+    "C:\\Users\\hugog\\.nuget\\packages\\xf.material\\1.5.8\\xf.material.1.5.8.nupkg.sha512"
+  ],
+  "logs": []
+}

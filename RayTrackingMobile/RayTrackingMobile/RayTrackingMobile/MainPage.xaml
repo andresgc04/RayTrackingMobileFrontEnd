@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:local="clr-namespace:RayTrackingMobile.CustomeRenderer"
+             mc:Ignorable="d"
+             x:Class="RayTrackingMobile.MainPage">
+
+    <StackLayout Padding="0" BackgroundColor="LightGray">
+ 
+            <Grid>
+                <StackLayout Padding="0" Margin="0">
+                <Frame BackgroundColor="LightPink" HeightRequest="150" HorizontalOptions="FillAndExpand" Padding="0">
+                    <Image Source="https://images.pexels.com/photos/1561020/pexels-photo-1561020.jpeg" Aspect="AspectFill" Margin="0"/>
+                </Frame>
+                </StackLayout>
+                
+                <StackLayout Margin="15,110,15,0">
+
+                <Frame BackgroundColor="White" HasShadow="True" HeightRequest="450" HorizontalOptions="FillAndExpand">
+                    <StackLayout>
+                        <StackLayout HorizontalOptions="CenterAndExpand">
+                            <Label Text="INICIAR SESION" TextColor="Black" FontSize="Medium" FontAttributes="Bold"/>
+                        </StackLayout>
+
+                        <StackLayout Margin="0,25,0,0">
+                            <Frame BackgroundColor="Transparent" BorderColor="DarkGray" Padding="0" Margin="0" CornerRadius="50" HorizontalOptions="FillAndExpand">
+                                <StackLayout Orientation="Horizontal">
+                                    <Frame BackgroundColor="AliceBlue" CornerRadius="50" HeightRequest="35" WidthRequest="35" Padding="0" HorizontalOptions="Start" Margin="7">
+                                        
+                                    </Frame>
+
+                                    <local:MyCustomeEntry Placeholder="Usuario" TextColor="HotPink" HorizontalOptions="FillAndExpand" Margin="0,0,15,0"/>
+                                </StackLayout>
+                            </Frame>
+                        </StackLayout>
+
+                        <StackLayout Margin="0,25,0,0">
+                            <Frame BackgroundColor="Transparent" BorderColor="DarkGray" Padding="0" Margin="0,20,0,0" CornerRadius="50" HorizontalOptions="FillAndExpand">
+                                <StackLayout Orientation="Horizontal">
+                                    <Frame BackgroundColor="AliceBlue" CornerRadius="50" HeightRequest="35" WidthRequest="35" Padding="0" HorizontalOptions="Start" Margin="7">
+
+                                    </Frame>
+
+                                    <local:MyCustomeEntry Placeholder="Password" IsPassword="True" TextColor="HotPink" HorizontalOptions="FillAndExpand" Margin="0,0,15,0"/>
+
+                                </StackLayout>
+                            </Frame>
+                        </StackLayout>
+                        
+                        <StackLayout Orientation="Horizontal">
+                            <CheckBox IsChecked="False" Color="HotPink" />
+                            <Label Text="Recordar Usuario" HorizontalTextAlignment="Start" VerticalTextAlignment="Center"/>
+
+                            <Label Text="Restablecer Contraseña" HorizontalTextAlignment="End" TextColor="HotPink" HorizontalOptions="EndAndExpand" FontAttributes="Bold" VerticalTextAlignment="Center"/>
+
+                            
+                        </StackLayout>
+                        <Button Text="INICIAR SESION" BackgroundColor="Purple" TextColor="White" FontAttributes="Bold" CornerRadius="30"/>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+            </Grid>
+
+    </StackLayout>
+
+</ContentPage>

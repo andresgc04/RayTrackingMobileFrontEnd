@@ -1,0 +1,13 @@
+C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile\bin\Debug\netstandard2.0\RayTrackingMobile.deps.json
+C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile\bin\Debug\netstandard2.0\RayTrackingMobile.dll
+C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile\bin\Debug\netstandard2.0\ref\RayTrackingMobile.dll
+C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile\bin\Debug\netstandard2.0\RayTrackingMobile.pdb
+C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\RayTrackingMobile.csproj.CoreCompileInputs.cache
+C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\RayTrackingMobile.AssemblyInfoInputs.cache
+C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\RayTrackingMobile.AssemblyInfo.cs
+C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\RayTrackingMobile.dll
+C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\ref\RayTrackingMobile.dll
+C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\RayTrackingMobile.pdb
