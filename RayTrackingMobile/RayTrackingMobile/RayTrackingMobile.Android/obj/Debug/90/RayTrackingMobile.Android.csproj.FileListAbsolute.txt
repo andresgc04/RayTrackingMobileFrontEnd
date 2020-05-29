@@ -1,3 +1,6 @@
+C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\src\com\airbnb\lottie\R.java
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\bin\Debug\RayTrackingMobile.Android.dll
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\bin\Debug\RayTrackingMobile.Android.pdb
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\bin\Debug\com.companyname.raytrackingmobile.apk
@@ -70,6 +73,7 @@ C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMo
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\res\drawable\bievenidalogin.png
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\res\drawable\raytracking_logo.jpg
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\res\drawable\splash_screen.xml
+C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\res\drawable\bienvenidos.jpg
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\uploadflags.txt
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\resolvedassemblies.hash
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
@@ -156,10 +160,8 @@ C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMo
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
-C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
-C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
@@ -222,7 +224,6 @@ C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMo
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\src\com\airbnb\lottie\LottieAnimationView_ImageAssetDelegateImpl.java
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\src\com\airbnb\lottie\LottieComposition$Factory_ActionCompositionLoaded.java
-C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\src\com\airbnb\lottie\R.java
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\RayTrackingMobile.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java

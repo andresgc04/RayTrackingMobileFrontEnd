@@ -10,12 +10,12 @@
  
             <Grid>
                 <StackLayout Padding="0" Margin="0">
-                <Frame BackgroundColor="LightPink" HeightRequest="150" HorizontalOptions="FillAndExpand" Padding="0">
-                    <Image Source="https://images.pexels.com/photos/1561020/pexels-photo-1561020.jpeg" Aspect="AspectFill" Margin="0"/>
+                <Frame BackgroundColor="#07485B" HeightRequest="150" HorizontalOptions="FillAndExpand" Padding="0">
+                    <!--<Image Source="Bienvenidos" Aspect="Fill" Margin="0"/>-->
                 </Frame>
                 </StackLayout>
                 
-                <StackLayout Margin="15,110,15,0">
+                <StackLayout Margin="150,110,150,0">
 
                 <Frame BackgroundColor="White" HasShadow="True" HeightRequest="450" HorizontalOptions="FillAndExpand">
                     <StackLayout>
@@ -48,15 +48,15 @@
                             </Frame>
                         </StackLayout>
                         
-                        <StackLayout Orientation="Horizontal">
-                            <CheckBox IsChecked="False" Color="HotPink" />
-                            <Label Text="Recordar Usuario" HorizontalTextAlignment="Start" VerticalTextAlignment="Center"/>
+                        <StackLayout Orientation="Horizontal" Margin="0,15,0,0">
+                            
+                            
 
-                            <Label Text="Restablecer Contraseña" HorizontalTextAlignment="End" TextColor="HotPink" HorizontalOptions="EndAndExpand" FontAttributes="Bold" VerticalTextAlignment="Center"/>
+                            
 
                             
                         </StackLayout>
-                        <Button Text="INICIAR SESION" BackgroundColor="Purple" TextColor="White" FontAttributes="Bold" CornerRadius="30"/>
+                        <Button Text="INICIAR SESION" BackgroundColor="#07485B" TextColor="White" FontAttributes="Bold" CornerRadius="30"/>
                     </StackLayout>
                 </Frame>
             </StackLayout>
