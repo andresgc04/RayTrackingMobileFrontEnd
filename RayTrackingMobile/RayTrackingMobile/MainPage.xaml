@@ -30,19 +30,19 @@
                                         
                                     </Frame>
 
-                                    <local:MyCustomeEntry Placeholder="Usuario" TextColor="HotPink" HorizontalOptions="FillAndExpand" Margin="0,0,15,0"/>
+                                    <local:MyCustomeEntry Placeholder="Ingrese el usuario" TextColor="HotPink" HorizontalOptions="FillAndExpand" Margin="0,0,15,0"/>
                                 </StackLayout>
                             </Frame>
                         </StackLayout>
 
                         <StackLayout Margin="0,25,0,0">
-                            <Frame BackgroundColor="Transparent" BorderColor="DarkGray" Padding="0" Margin="0,20,0,0" CornerRadius="50" HorizontalOptions="FillAndExpand">
+                            <Frame BackgroundColor="Transparent" BorderColor="DarkGray" Padding="0" Margin="0,5,0,0" CornerRadius="50" HorizontalOptions="FillAndExpand">
                                 <StackLayout Orientation="Horizontal">
                                     <Frame BackgroundColor="AliceBlue" CornerRadius="50" HeightRequest="35" WidthRequest="35" Padding="0" HorizontalOptions="Start" Margin="7">
 
                                     </Frame>
 
-                                    <local:MyCustomeEntry Placeholder="Password" IsPassword="True" TextColor="HotPink" HorizontalOptions="FillAndExpand" Margin="0,0,15,0"/>
+                                    <local:MyCustomeEntry Placeholder="Ingrese el password" IsPassword="True" TextColor="HotPink" HorizontalOptions="FillAndExpand" Margin="0,0,15,0"/>
 
                                 </StackLayout>
                             </Frame>
