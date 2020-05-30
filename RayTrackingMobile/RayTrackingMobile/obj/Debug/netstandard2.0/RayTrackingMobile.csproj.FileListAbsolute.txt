@@ -25,3 +25,17 @@ C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMo
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\RayTrackingMobile.dll
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\ref\RayTrackingMobile.dll
 C:\Users\hugog\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\RayTrackingMobile.pdb
+C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\bin\Debug\netstandard2.0\RayTrackingMobile.deps.json
+C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\bin\Debug\netstandard2.0\RayTrackingMobile.dll
+C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\bin\Debug\netstandard2.0\ref\RayTrackingMobile.dll
+C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\bin\Debug\netstandard2.0\RayTrackingMobile.pdb
+C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\RayTrackingMobile.csprojAssemblyReference.cache
+C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\RayTrackingMobile.csproj.CoreCompileInputs.cache
+C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\RayTrackingMobile.AssemblyInfoInputs.cache
+C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\RayTrackingMobile.AssemblyInfo.cs
+C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\RayTrackingMobile.dll
+C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\ref\RayTrackingMobile.dll
+C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\RayTrackingMobile.pdb
