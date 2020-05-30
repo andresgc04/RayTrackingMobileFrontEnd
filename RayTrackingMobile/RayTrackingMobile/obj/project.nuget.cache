@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vwcu9/ggjKRpS9tR+Y0gVDJV/eTx6uPputS/OLYNWWyyj409UuvmmZp8T/YRgiYFS+w4Eb32tYuDBFAx3H//jw==",
+  "dgSpecHash": "r/5TLGJ+Hjq1OSTXfivT/lzqrL8ch0HgSwsL0Z8B/BxzGoKkoQzV6bQOkSnoUCbLWpYJu7S5BdjFz6axp0ybQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile.csproj",
+  "projectFilePath": "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hugog\\.nuget\\packages\\com.airbnb.xamarin.forms.lottie\\3.0.3\\com.airbnb.xamarin.forms.lottie.3.0.3.nupkg.sha512",
     "C:\\Users\\hugog\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

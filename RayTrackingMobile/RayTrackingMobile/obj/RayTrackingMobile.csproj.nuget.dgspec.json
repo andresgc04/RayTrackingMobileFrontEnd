@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile.csproj": {}
+    "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile.csproj": {
+    "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile.csproj",
+        "projectUniqueName": "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile.csproj",
         "projectName": "RayTrackingMobile",
-        "projectPath": "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile.csproj",
+        "projectPath": "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile.csproj",
         "packagesPath": "C:\\Users\\hugog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile\\obj\\",
+        "outputPath": "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

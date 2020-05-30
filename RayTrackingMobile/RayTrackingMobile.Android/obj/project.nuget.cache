@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/AR3D002WmQxpGs89354Yirz8Qhl5R1BuXbcnFBq3mTwGvDQZM319Ai1sGc8ZqvtdmxexefVD8wOlgY+TxOkwQ==",
+  "dgSpecHash": "+Ud6RdC42h7XH5NQfhYZN8sw+eopPVLx38c1flh+ilO8KlPjbBp1tS6W81ao2ZX0sEoIC4YvcsIcQpjFMAomgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile.Android\\RayTrackingMobile.Android.csproj",
+  "projectFilePath": "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile.Android\\RayTrackingMobile.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hugog\\.nuget\\packages\\com.airbnb.android.lottie\\3.0.5\\com.airbnb.android.lottie.3.0.5.nupkg.sha512",
     "C:\\Users\\hugog\\.nuget\\packages\\com.airbnb.xamarin.forms.lottie\\3.0.3\\com.airbnb.xamarin.forms.lottie.3.0.3.nupkg.sha512",
