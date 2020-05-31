@@ -39,3 +39,6 @@ C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayT
 C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\RayTrackingMobile.dll
 C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\ref\RayTrackingMobile.dll
 C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\RayTrackingMobile.pdb
+C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\MasterDetail.xaml.g.cs
+C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\MasterDetailDetail.xaml.g.cs
+C:\Users\juan-concentra\Desktop\RayTrackingMobileFrontEnd\RayTrackingMobile\RayTrackingMobile\obj\Debug\netstandard2.0\MasterDetailMaster.xaml.g.cs
