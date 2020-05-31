@@ -17,8 +17,16 @@ namespace RayTrackingMobile {
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::RayTrackingMobile.CustomeRenderer.MyCustomeEntry txtUser;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
+        private global::RayTrackingMobile.CustomeRenderer.MyCustomeEntry txtpassword;
+        
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainPage));
+            txtUser = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::RayTrackingMobile.CustomeRenderer.MyCustomeEntry>(this, "txtUser");
+            txtpassword = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::RayTrackingMobile.CustomeRenderer.MyCustomeEntry>(this, "txtpassword");
         }
     }
 }

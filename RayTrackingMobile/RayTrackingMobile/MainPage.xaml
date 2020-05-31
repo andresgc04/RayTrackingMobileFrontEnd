@@ -30,7 +30,7 @@
                                         
                                     </Frame>
 
-                                    <local:MyCustomeEntry Placeholder="Ingrese el usuario" TextColor="HotPink" HorizontalOptions="FillAndExpand" Margin="0,0,15,0"/>
+                                    <local:MyCustomeEntry x:Name="txtUser" Placeholder="Ingrese el usuario" TextColor="HotPink" HorizontalOptions="FillAndExpand" Margin="0,0,15,0"/>
                                 </StackLayout>
                             </Frame>
                         </StackLayout>
@@ -42,7 +42,7 @@
 
                                     </Frame>
 
-                                    <local:MyCustomeEntry Placeholder="Ingrese el password" IsPassword="True" TextColor="HotPink" HorizontalOptions="FillAndExpand" Margin="0,0,15,0"/>
+                                    <local:MyCustomeEntry x:Name="txtpassword" Placeholder="Ingrese el password" IsPassword="True" TextColor="HotPink" HorizontalOptions="FillAndExpand" Margin="0,0,15,0"/>
 
                                 </StackLayout>
                             </Frame>
@@ -56,7 +56,7 @@
 
                             
                         </StackLayout>
-                        <Button Text="INICIAR SESION" BackgroundColor="#07485B" TextColor="White" FontAttributes="Bold" CornerRadius="30"/>
+                        <Button Text="INICIAR SESION" Clicked="btnLogin" BackgroundColor="#07485B" TextColor="White" FontAttributes="Bold" CornerRadius="30"/>
                     </StackLayout>
                 </Frame>
             </StackLayout>
