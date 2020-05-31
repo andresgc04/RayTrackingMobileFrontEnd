@@ -2150,24 +2150,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\juan-concentra\\.nuget\\packages\\": {},
+    "C:\\Users\\hugog\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juan-concentra\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile.Android\\RayTrackingMobile.Android.csproj",
+      "projectUniqueName": "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile.Android\\RayTrackingMobile.Android.csproj",
       "projectName": "RayTrackingMobile.Android",
-      "projectPath": "C:\\Users\\juan-concentra\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile.Android\\RayTrackingMobile.Android.csproj",
-      "packagesPath": "C:\\Users\\juan-concentra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juan-concentra\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile.Android\\obj\\",
+      "projectPath": "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile.Android\\RayTrackingMobile.Android.csproj",
+      "packagesPath": "C:\\Users\\hugog\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\juan-concentra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hugog\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2181,8 +2181,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\juan-concentra\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile.csproj": {
-              "projectPath": "C:\\Users\\juan-concentra\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile.csproj"
+            "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile.csproj": {
+              "projectPath": "C:\\Users\\hugog\\Desktop\\RayTrackingMobileFrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile.csproj"
             }
           }
         }
